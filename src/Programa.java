@@ -5,6 +5,7 @@ public class Programa {
 		
 		System.out.println("Git funcionando 1");
 		System.out.println("Git funcionando 2");
+		System.out.println("Git funcionando 3");
 
 	}
 
